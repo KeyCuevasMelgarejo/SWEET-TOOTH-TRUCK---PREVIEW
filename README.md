@@ -4,7 +4,7 @@
 ```
 # Sweet Tooth Truck - Inicialización
 
-**Clona y ejecuta el programa para ver a Sweet Tooth Truck uso**
+**Clona y ejecuta el programa para ver a Sweet Tooth Truck**
 
 ## Pasos
 
