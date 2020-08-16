@@ -2,6 +2,9 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
+# Sweet Tooth Truck - Demo
+![](Demo.gif)
+
 # Sweet Tooth Truck - Inicialización
 
 **Clona y ejecuta el programa para ver a Sweet Tooth Truck**
@@ -16,6 +19,3 @@ git clone https://github.com/KeyCuevasMelgarejo/SWEET-TOOTH-TRUCK
 # Abrir y ejecutar el archivo main.cpp
 ```
 (Opción 2) Simplemente descarga el archivo main.cpp
-
-# Sweet Tooth Truck - Demo
-![](Demo.gif)
