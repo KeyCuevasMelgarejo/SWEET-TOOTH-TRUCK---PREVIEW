@@ -2,7 +2,7 @@
 # El repositorio, junto a este archivo, es sólo muestra. 
 # Todo el código y el repositorio original estan en privado.
 ```
-# Sweet Tooth Truck - Demo
+# Sweet Tooth Truck - Demo ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FKeyCuevasMelgarejo%2FSWEET-TOOTH-TRUCK___PREVIEW)
 ![](Demo.gif)
 
 # Sweet Tooth Truck - Inicialización
